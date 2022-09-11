@@ -1,0 +1,21 @@
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.exe
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.pdb
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.xml
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.vbprojResolveAssemblyReference.cache
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.Resources.resources
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.vbproj.GenerateResource.Cache
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.exe
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.xml
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.pdb
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\bin\Debug\Calc1.xml
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.vbproj.AssemblyReference.cache
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.Resources.resources
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.vbproj.GenerateResource.cache
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.vbproj.CoreCompileInputs.cache
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.xml
+C:\Users\priya\Downloads\vb.net-calc-master\vb.net-calc-master\calc1\Calc1\Calc1\obj\Debug\Calc1.pdb
